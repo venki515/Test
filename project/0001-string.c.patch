@@ -1,0 +1,22 @@
+From 1298cd0c24b6d51df0f7a7b24a1000bb025aa484 Mon Sep 17 00:00:00 2001
+From: venki <venki.linux7@gmail.com>
+Date: Wed, 16 May 2018 12:49:25 +0530
+Subject: [PATCH] string.c
+
+---
+ string.c => project/string.c | 0
+ ss                           | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename string.c => project/string.c (100%)
+ create mode 100644 ss
+
+diff --git a/string.c b/project/string.c
+similarity index 100%
+rename from string.c
+rename to project/string.c
+diff --git a/ss b/ss
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.0.windows.1
+
